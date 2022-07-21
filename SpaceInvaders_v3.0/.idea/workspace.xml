@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="88b34823-7a40-473e-a03c-79fd2bbca954" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1nhGLCn4vs1uJ5LLS1sIg8FFg4W" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="main" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Starter" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.Starter" />
+      <module name="SpaceInvaders_v3.0" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="88b34823-7a40-473e-a03c-79fd2bbca954" name="Default Changelist" comment="" />
+      <created>1611834850326</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611834850326</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="128" y="23" key="#Project_Structure" timestamp="1611834867553">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state x="128" y="23" key="#Project_Structure/0.23.1280.748@0.23.1280.748" timestamp="1611834867553" />
+    <state x="104" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1611835635123">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state x="104" y="52" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1280.748@0.23.1280.748" timestamp="1611835635123" />
+    <state x="453" y="103" key="#com.intellij.ide.util.MemberChooser" timestamp="1611850041779">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state x="453" y="103" key="#com.intellij.ide.util.MemberChooser/0.23.1280.748@0.23.1280.748" timestamp="1611850041779" />
+    <state x="378" y="173" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1611861995550">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state x="378" y="173" key="#com.intellij.ide.util.PackageChooserDialog/0.23.1280.748@0.23.1280.748" timestamp="1611861995550" />
+    <state x="377" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1611835634050">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state x="377" y="187" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1280.748@0.23.1280.748" timestamp="1611835634050" />
+    <state x="415" y="304" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1611861997125">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state x="415" y="304" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.23.1280.748@0.23.1280.748" timestamp="1611861997125" />
+    <state x="378" y="144" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611851245368">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state x="378" y="144" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1280.748@0.23.1280.748" timestamp="1611851245368" />
+    <state width="1238" height="2" key="GridCell.Tab.0.bottom" timestamp="1611937284516">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state width="1238" height="2" key="GridCell.Tab.0.bottom/0.23.1280.748@0.23.1280.748" timestamp="1611937284516" />
+    <state width="1238" height="2" key="GridCell.Tab.0.center" timestamp="1611937284515">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state width="1238" height="2" key="GridCell.Tab.0.center/0.23.1280.748@0.23.1280.748" timestamp="1611937284515" />
+    <state width="1238" height="2" key="GridCell.Tab.0.left" timestamp="1611937284514">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state width="1238" height="2" key="GridCell.Tab.0.left/0.23.1280.748@0.23.1280.748" timestamp="1611937284514" />
+    <state width="1238" height="2" key="GridCell.Tab.0.right" timestamp="1611937284515">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state width="1238" height="2" key="GridCell.Tab.0.right/0.23.1280.748@0.23.1280.748" timestamp="1611937284515" />
+    <state width="1238" height="2" key="GridCell.Tab.1.bottom" timestamp="1611937284517">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state width="1238" height="2" key="GridCell.Tab.1.bottom/0.23.1280.748@0.23.1280.748" timestamp="1611937284517" />
+    <state width="1238" height="2" key="GridCell.Tab.1.center" timestamp="1611937284517">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state width="1238" height="2" key="GridCell.Tab.1.center/0.23.1280.748@0.23.1280.748" timestamp="1611937284517" />
+    <state width="1238" height="2" key="GridCell.Tab.1.left" timestamp="1611937284516">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state width="1238" height="2" key="GridCell.Tab.1.left/0.23.1280.748@0.23.1280.748" timestamp="1611937284516" />
+    <state width="1238" height="2" key="GridCell.Tab.1.right" timestamp="1611937284517">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state width="1238" height="2" key="GridCell.Tab.1.right/0.23.1280.748@0.23.1280.748" timestamp="1611937284517" />
+    <state x="107" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1611859743826">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state x="107" y="23" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.23.1280.748@0.23.1280.748" timestamp="1611859743826" />
+    <state x="35" y="23" key="new project wizard" timestamp="1611882065833">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state x="35" y="23" key="new project wizard/0.23.1280.748@0.23.1280.748" timestamp="1611882065833" />
+    <state x="305" y="95" width="670" height="676" key="search.everywhere.popup" timestamp="1611849884559">
+      <screen x="0" y="23" width="1280" height="748" />
+    </state>
+    <state x="305" y="95" width="670" height="676" key="search.everywhere.popup/0.23.1280.748@0.23.1280.748" timestamp="1611849884559" />
+  </component>
+</project>
